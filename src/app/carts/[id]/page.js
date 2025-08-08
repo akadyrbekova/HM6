@@ -1,9 +1,8 @@
 "use client";
-
 export default function Carts() {
   return (
     <div>
-      <h1>Cart id</h1>
+      <h1>CartId</h1>
     </div>
   );
 }
