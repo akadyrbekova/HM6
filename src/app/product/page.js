@@ -1,6 +1,8 @@
 "use client";
 
 import Link from "next/link";
+import Api from "./api/Api";
+console.log(Api);
 
 export default function Product() {
   return (

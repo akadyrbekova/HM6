@@ -12,7 +12,8 @@ export default function CategoryPage() {
     <div className="flex flex-col items-center">
       <div>
         <h1>
-          В роутинге:<span className="text-red-500"> {category}</span>
+          В роутинге c категорией:
+          <span className="text-red-500"> {category}</span>
         </h1>
       </div>
       <button>
